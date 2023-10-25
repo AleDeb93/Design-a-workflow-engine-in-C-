@@ -10,7 +10,7 @@ namespace Design_a_Workflow
     {
         static void Main(string[] args)
         {
-            var nomeUtente = "yourUserName"; 
+            var nomeUtente = Console.ReadLine();; 
 
             var workflow = new Workflow();
             workflow.AddActivities(new IWorkflowActivity[] {new ConsoleActivity(), new FileActivity($"C:\\Users\\{nomeUtente}\\file.txt")}); 
