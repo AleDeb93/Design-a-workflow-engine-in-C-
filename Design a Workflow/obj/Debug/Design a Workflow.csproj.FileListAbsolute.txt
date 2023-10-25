@@ -1,0 +1,13 @@
+C:\Users\alex.debiasi\bCloud\USERS\alex.debiasi\Formazione\C#\Esercizi\C# Intermediate\Design a Workflow\Design a Workflow\bin\Debug\Design a Workflow.exe.config
+C:\Users\alex.debiasi\bCloud\USERS\alex.debiasi\Formazione\C#\Esercizi\C# Intermediate\Design a Workflow\Design a Workflow\bin\Debug\Design a Workflow.exe
+C:\Users\alex.debiasi\bCloud\USERS\alex.debiasi\Formazione\C#\Esercizi\C# Intermediate\Design a Workflow\Design a Workflow\bin\Debug\Design a Workflow.pdb
+C:\Users\alex.debiasi\bCloud\USERS\alex.debiasi\Formazione\C#\Esercizi\C# Intermediate\Design a Workflow\Design a Workflow\obj\Debug\Design a Workflow.csproj.AssemblyReference.cache
+C:\Users\alex.debiasi\bCloud\USERS\alex.debiasi\Formazione\C#\Esercizi\C# Intermediate\Design a Workflow\Design a Workflow\obj\Debug\Design a Workflow.csproj.SuggestedBindingRedirects.cache
+C:\Users\alex.debiasi\bCloud\USERS\alex.debiasi\Formazione\C#\Esercizi\C# Intermediate\Design a Workflow\Design a Workflow\obj\Debug\Design a Workflow.csproj.CoreCompileInputs.cache
+C:\Users\alex.debiasi\bCloud\USERS\alex.debiasi\Formazione\C#\Esercizi\C# Intermediate\Design a Workflow\Design a Workflow\obj\Debug\Design a Workflow.exe
+C:\Users\alex.debiasi\bCloud\USERS\alex.debiasi\Formazione\C#\Esercizi\C# Intermediate\Design a Workflow\Design a Workflow\obj\Debug\Design a Workflow.pdb
+C:\Users\alex.debiasi\bCloud\USERS\alex.debiasi\Formazione\C#\Esercizi\C# Intermediate\Design a Workflow\Design a Workflow\bin\Debug\Attività.dll
+C:\Users\alex.debiasi\bCloud\USERS\alex.debiasi\Formazione\C#\Esercizi\C# Intermediate\Design a Workflow\Design a Workflow\bin\Debug\Libreria Workflow.dll
+C:\Users\alex.debiasi\bCloud\USERS\alex.debiasi\Formazione\C#\Esercizi\C# Intermediate\Design a Workflow\Design a Workflow\bin\Debug\Attività.pdb
+C:\Users\alex.debiasi\bCloud\USERS\alex.debiasi\Formazione\C#\Esercizi\C# Intermediate\Design a Workflow\Design a Workflow\bin\Debug\Libreria Workflow.pdb
+C:\Users\alex.debiasi\bCloud\USERS\alex.debiasi\Formazione\C#\Esercizi\C# Intermediate\Design a Workflow\Design a Workflow\obj\Debug\Design a Workflow.csproj.CopyComplete

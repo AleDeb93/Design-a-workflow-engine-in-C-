@@ -1,0 +1,6 @@
+C:\Users\alex.debiasi\bCloud\USERS\alex.debiasi\Formazione\C#\Esercizi\C# Intermediate\Design a Workflow\Libreria Workflow\bin\Debug\Libreria Workflow.dll
+C:\Users\alex.debiasi\bCloud\USERS\alex.debiasi\Formazione\C#\Esercizi\C# Intermediate\Design a Workflow\Libreria Workflow\bin\Debug\Libreria Workflow.pdb
+C:\Users\alex.debiasi\bCloud\USERS\alex.debiasi\Formazione\C#\Esercizi\C# Intermediate\Design a Workflow\Libreria Workflow\obj\Debug\Libreria Workflow.csproj.AssemblyReference.cache
+C:\Users\alex.debiasi\bCloud\USERS\alex.debiasi\Formazione\C#\Esercizi\C# Intermediate\Design a Workflow\Libreria Workflow\obj\Debug\Libreria Workflow.csproj.CoreCompileInputs.cache
+C:\Users\alex.debiasi\bCloud\USERS\alex.debiasi\Formazione\C#\Esercizi\C# Intermediate\Design a Workflow\Libreria Workflow\obj\Debug\Libreria Workflow.dll
+C:\Users\alex.debiasi\bCloud\USERS\alex.debiasi\Formazione\C#\Esercizi\C# Intermediate\Design a Workflow\Libreria Workflow\obj\Debug\Libreria Workflow.pdb

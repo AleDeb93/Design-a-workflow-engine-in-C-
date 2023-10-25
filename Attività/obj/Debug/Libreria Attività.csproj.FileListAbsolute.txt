@@ -1,0 +1,9 @@
+C:\Users\alex.debiasi\bCloud\USERS\alex.debiasi\Formazione\C#\Esercizi\C# Intermediate\Design a Workflow\Attività\bin\Debug\Attività.dll
+C:\Users\alex.debiasi\bCloud\USERS\alex.debiasi\Formazione\C#\Esercizi\C# Intermediate\Design a Workflow\Attività\bin\Debug\Attività.pdb
+C:\Users\alex.debiasi\bCloud\USERS\alex.debiasi\Formazione\C#\Esercizi\C# Intermediate\Design a Workflow\Attività\bin\Debug\Libreria Workflow.dll
+C:\Users\alex.debiasi\bCloud\USERS\alex.debiasi\Formazione\C#\Esercizi\C# Intermediate\Design a Workflow\Attività\bin\Debug\Libreria Workflow.pdb
+C:\Users\alex.debiasi\bCloud\USERS\alex.debiasi\Formazione\C#\Esercizi\C# Intermediate\Design a Workflow\Attività\obj\Debug\Libreria Attività.csproj.AssemblyReference.cache
+C:\Users\alex.debiasi\bCloud\USERS\alex.debiasi\Formazione\C#\Esercizi\C# Intermediate\Design a Workflow\Attività\obj\Debug\Libreria Attività.csproj.CoreCompileInputs.cache
+C:\Users\alex.debiasi\bCloud\USERS\alex.debiasi\Formazione\C#\Esercizi\C# Intermediate\Design a Workflow\Attività\obj\Debug\Libreria Attività.csproj.CopyComplete
+C:\Users\alex.debiasi\bCloud\USERS\alex.debiasi\Formazione\C#\Esercizi\C# Intermediate\Design a Workflow\Attività\obj\Debug\Attività.dll
+C:\Users\alex.debiasi\bCloud\USERS\alex.debiasi\Formazione\C#\Esercizi\C# Intermediate\Design a Workflow\Attività\obj\Debug\Attività.pdb
