@@ -1,4 +1,4 @@
-# Design-a-workflow-engine-in-C-
+# Design-a-workflow-engine-in-CSharp
 
 In this exercise, the task is to design a workflow engine that can take a workflow object and execute it. A workflow is essentially a series of steps or activities. The workflow engine class should have a single method named "Run()" which accepts a workflow as input and then goes through each activity in the workflow, executing them one by one.
 
